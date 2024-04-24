@@ -1,0 +1,19 @@
+2023-09-18 12:48:56,843 root INFO  this is my info logging 
+2023-09-18 12:48:56,844 root ERROR  this is my error logging 
+2023-09-18 12:48:56,844 root CRITICAL  this is error critical logging 
+2023-09-18 12:50:34,549 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-09-18 12:50:34,550 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-09-18 12:50:34,551 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-09-18 12:50:34,552 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-09-18 12:50:34,560 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-09-18 12:50:34,560 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-09-18 12:50:34,560 root INFO  i am inside if statement and i am trying to check list type[2, 3, 4]
+2023-09-18 12:50:34,561 root INFO  i am in anothe for loop for list inside list element 2
+2023-09-18 12:50:34,561 root INFO  i am inside if statement
+2023-09-18 12:50:34,561 root INFO  i am in anothe for loop for list inside list element 3
+2023-09-18 12:50:34,561 root INFO  i am inside if statement
+2023-09-18 12:50:34,561 root INFO  i am in anothe for loop for list inside list element 4
+2023-09-18 12:50:34,561 root INFO  i am inside if statement
+2023-09-18 12:50:34,561 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-09-18 12:50:34,561 root INFO  we are iterating throuhg our list and our local var is [1, 2, 3, 34, 4, [2, 3, 4], 'sudh', 'kumar']
+2023-09-18 12:50:34,561 root INFO  my final result for int is [1, 2, 3, 34, 4, 2, 3, 4] and str is ['sudh', 'kumar']

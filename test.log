@@ -1,0 +1,5 @@
+INFO:root:log this line of executation
+INFO:root:this is my print
+WARNING:root:this is my warning message
+ERROR:root:this is my error message
+CRITICAL:root:this is my critical message
